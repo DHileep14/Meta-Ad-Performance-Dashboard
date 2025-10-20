@@ -1,4 +1,3 @@
-# Meta-Ad-Performance-Dashboard
 # Meta Ad Performance Dashboard
 
 A Power BI dashboard for Meta Ads performance.
